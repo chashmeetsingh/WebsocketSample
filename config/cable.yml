@@ -1,0 +1,11 @@
+production:
+  adapter: postgresql
+  url: postgres://localhost/action-cable-test
+
+development:
+  adapter: postgresql
+  url: postgres://localhost/action-cable-test
+
+test:
+  adapter: postgresql
+  url: postgres://localhost/action-cable-test
